@@ -1,32 +1,59 @@
 /* --RESET STYLES--- */
 @import url("reset.css");
 
-.navigation {
+body{
+    background-color: #1e1d1e;
+    color: #8c8c8c;
+    
 }
-.nav-logo {
-}
+/* .navigation {
+} */
+/* .nav-logo {
+} */
 .header-text {
+    color: #ff0000;
 }
-.nav-text {
+.navigation .second {
+    color: #ffc000;
 }
-.second {
+a:hover{
+    color: #ffc000;
 }
-.nav-link {
+/* .nav-link {
+} */
+/* .nav-main {
+} */
+/* .main-logo {
+} */
+h2.header-text{
+    color: #8c8c8c;
 }
-.nav-main {
+.main-text>.accent {
+    color: #ff0000;
 }
-.main-logo {
+.header-text.warning{
+    color: #ff6600;
 }
-.text {
+p ~.options{
+    color: #99cc00;
 }
-.main-text {
+.link-text{
+    color: #99cc00;
 }
 .hr {
-    color: #690c0c; 
-    width: 1200px;
-    padding: 1px;
+    background-color: #a67b31;; 
+    height: 2px;
+    
+}
+.header-text.why{
+    color: #ffcc00;
+}
+ h3{
+    color: #ff9900;
 }
 .hello {
+    color: #ff0000;
 }
-.footer-text {
+footer span {
+    color: #ff6600;
 }
