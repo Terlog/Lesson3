@@ -57,3 +57,6 @@ p ~.options{
 footer span {
     color: #ff6600;
 }
+a + .footer-text{
+    color: #99cc00;
+}
